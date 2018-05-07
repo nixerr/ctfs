@@ -1,0 +1,1810 @@
+[x] Opening connection to localhost on port 5555
+[x] Opening connection to localhost on port 5555: Trying ::1
+[x] Opening connection to localhost on port 5555: Trying 127.0.0.1
+[+] Opening connection to localhost on port 5555: Done
+Enter your shop name:
+[+] Add item: 0
+[+] Add item: 1
+[+] Add item: 2
+[+] Add item: 3
+[+] Add item: 4
+[+] Add item: 5
+[+] Add item: 6
+[+] Add item: 7
+[+] Add item: 8
+[+] Add item: 9
+[+] Add item: 10
+[+] Add item: 11
+[+] Add item: 12
+[+] Add item: 13
+[+] Add item: 14
+[+] Add item: 15
+[+] Add item: 16
+[+] Add item: 17
+[+] Add item: 18
+[+] Add item: 19
+[+] Add item: 20
+[+] Add item: 21
+[+] Add item: 22
+[+] Add item: 23
+[+] Add item: 24
+[+] Add item: 25
+[+] Add item: 26
+[+] Add item: 27
+[+] Add item: 28
+[+] Add item: 29
+[+] Add item: 30
+[+] Add item: 31
+[+] Add item: 32
+Checking range: 0000 - 00ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 0100 - 01ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying {{{{ for $100.00
+	Buying uuuu for $100.00
+	Buying qqqq for $100.00
+TOTAL: $300.00
+> 
+**************** BUFFER END *********************
+Range 256 - 512 has 2 item(s):
+  {{{{
+  uuuu
+Checking range: 0200 - 02ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 0300 - 03ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 0400 - 04ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 0500 - 05ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying aaaa for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 0600 - 06ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying bbbb for $100.00
+	Buying oooo for $100.00
+TOTAL: $200.00
+> 
+**************** BUFFER END *********************
+Range 1536 - 1792 has 1 item(s):
+  bbbb
+Checking range: 0700 - 07ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 0800 - 08ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 0900 - 09ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 0a00 - 0aff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying aaaa for $100.00
+	Buying vvvv for $100.00
+TOTAL: $200.00
+> 
+**************** BUFFER END *********************
+Range 2560 - 2816 has 1 item(s):
+  aaaa
+Checking range: 0b00 - 0bff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 0c00 - 0cff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 0d00 - 0dff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 0e00 - 0eff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 0f00 - 0fff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying wwww for $100.00
+	Buying eeee for $100.00
+TOTAL: $200.00
+> 
+**************** BUFFER END *********************
+Range 3840 - 4096 has 1 item(s):
+  wwww
+Checking range: 1000 - 10ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 1100 - 11ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 1200 - 12ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying uuuu for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 1300 - 13ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 1400 - 14ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying pppp for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 1500 - 15ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying {{{{ for $100.00
+	Buying nnnn for $100.00
+	Buying dddd for $100.00
+TOTAL: $300.00
+> 
+**************** BUFFER END *********************
+Range 5376 - 5632 has 2 item(s):
+  {{{{
+  nnnn
+Checking range: 1600 - 16ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 1700 - 17ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying qqqq for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 1800 - 18ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 1900 - 19ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 1a00 - 1aff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 1b00 - 1bff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying rrrr for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 1c00 - 1cff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 1d00 - 1dff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying dddd for $100.00
+	Buying wwww for $100.00
+	Buying jjjj for $100.00
+TOTAL: $300.00
+> 
+**************** BUFFER END *********************
+Range 7424 - 7680 has 2 item(s):
+  dddd
+  wwww
+Checking range: 1e00 - 1eff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 1f00 - 1fff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 2000 - 20ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying bbbb for $100.00
+	Buying vvvv for $100.00
+TOTAL: $200.00
+> 
+**************** BUFFER END *********************
+Range 8192 - 8448 has 1 item(s):
+  bbbb
+Checking range: 2100 - 21ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 2200 - 22ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 2300 - 23ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 2400 - 24ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying uuuu for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 2500 - 25ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 2600 - 26ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 2700 - 27ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 2800 - 28ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying ssss for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 2900 - 29ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying yyyy for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 2a00 - 2aff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 2b00 - 2bff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 2c00 - 2cff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying bbbb for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 2d00 - 2dff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying |||| for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 2e00 - 2eff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying aa for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 2f00 - 2fff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying llll for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 3000 - 30ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 3100 - 31ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 3200 - 32ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 3300 - 33ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 3400 - 34ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 3500 - 35ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 3600 - 36ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 3700 - 37ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 3800 - 38ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying kkkk for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 3900 - 39ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying cccc for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 3a00 - 3aff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 3b00 - 3bff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 3c00 - 3cff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 3d00 - 3dff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 3e00 - 3eff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 3f00 - 3fff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 4000 - 40ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying {{{{ for $100.00
+	Buying uuuu for $100.00
+TOTAL: $200.00
+> 
+**************** BUFFER END *********************
+Range 16384 - 16640 has 1 item(s):
+  {{{{
+Checking range: 4100 - 41ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 4200 - 42ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 4300 - 43ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 4400 - 44ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying tttt for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 4500 - 45ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying tttt for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 4600 - 46ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying xxxx for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 4700 - 47ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying xxxx for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 4800 - 48ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying pppp for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 4900 - 49ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 4a00 - 4aff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 4b00 - 4bff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 4c00 - 4cff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 4d00 - 4dff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying jjjj for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 4e00 - 4eff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying |||| for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 4f00 - 4fff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying ssss for $100.00
+	Buying hhhh for $100.00
+TOTAL: $200.00
+> 
+**************** BUFFER END *********************
+Range 20224 - 20480 has 1 item(s):
+  ssss
+Checking range: 5000 - 50ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying aaaa for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 5100 - 51ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 5200 - 52ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 5300 - 53ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 5400 - 54ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying {{{{ for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 5500 - 55ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 5600 - 56ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 5700 - 57ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 5800 - 58ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying mmmm for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 5900 - 59ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 5a00 - 5aff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying eeee for $100.00
+	Buying tttt for $100.00
+	Buying rrrr for $100.00
+	Buying dddd for $100.00
+TOTAL: $400.00
+> 
+**************** BUFFER END *********************
+Range 23040 - 23296 has 3 item(s):
+  eeee
+  tttt
+  rrrr
+Checking range: 5b00 - 5bff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 5c00 - 5cff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying yyyy for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 5d00 - 5dff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 5e00 - 5eff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying nnnn for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 5f00 - 5fff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 6000 - 60ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 6100 - 61ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 6200 - 62ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 6300 - 63ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 6400 - 64ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying xxxx for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 6500 - 65ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying mmmm for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 6600 - 66ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 6700 - 67ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 6800 - 68ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying bbbb for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 6900 - 69ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying oooo for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 6a00 - 6aff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 6b00 - 6bff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 6c00 - 6cff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying bbbb for $100.00
+	Buying gggg for $100.00
+TOTAL: $200.00
+> 
+**************** BUFFER END *********************
+Range 27648 - 27904 has 1 item(s):
+  bbbb
+Checking range: 6d00 - 6dff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 6e00 - 6eff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 6f00 - 6fff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying zzzz for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 7000 - 70ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying qqqq for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 7100 - 71ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 7200 - 72ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 7300 - 73ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 7400 - 74ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying xxxx for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 7500 - 75ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 7600 - 76ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 7700 - 77ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying qqqq for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 7800 - 78ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 7900 - 79ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying iiii for $100.00
+	Buying ffff for $100.00
+TOTAL: $200.00
+> 
+**************** BUFFER END *********************
+Range 30976 - 31232 has 1 item(s):
+  iiii
+Checking range: 7a00 - 7aff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 7b00 - 7bff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 7c00 - 7cff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 7d00 - 7dff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying eeee for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 7e00 - 7eff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 7f00 - 7fff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 8000 - 80ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 8100 - 81ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 8200 - 82ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying vvvv for $100.00
+	Buying bbbb for $100.00
+TOTAL: $200.00
+> 
+**************** BUFFER END *********************
+Range 33280 - 33536 has 1 item(s):
+  vvvv
+Checking range: 8300 - 83ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 8400 - 84ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying ssss for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 8500 - 85ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 8600 - 86ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 8700 - 87ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying ffff for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 8800 - 88ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 8900 - 89ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 8a00 - 8aff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 8b00 - 8bff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 8c00 - 8cff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying mmmm for $100.00
+	Buying aa for $100.00
+TOTAL: $200.00
+> 
+**************** BUFFER END *********************
+Range 35840 - 36096 has 1 item(s):
+  mmmm
+Checking range: 8d00 - 8dff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying pppp for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 8e00 - 8eff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 8f00 - 8fff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying dddd for $100.00
+	Buying kkkk for $100.00
+TOTAL: $200.00
+> 
+**************** BUFFER END *********************
+Range 36608 - 36864 has 1 item(s):
+  dddd
+Checking range: 9000 - 90ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 9100 - 91ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 9200 - 92ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying llll for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 9300 - 93ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 9400 - 94ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 9500 - 95ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying yyyy for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 9600 - 96ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 9700 - 97ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 9800 - 98ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 9900 - 99ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying cccc for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 9a00 - 9aff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 9b00 - 9bff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying ffff for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 9c00 - 9cff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: 9d00 - 9dff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying iiii for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 9e00 - 9eff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying cccc for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: 9f00 - 9fff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying oooo for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: a000 - a0ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying aaaa for $100.00
+	Buying eeee for $100.00
+TOTAL: $200.00
+> 
+**************** BUFFER END *********************
+Range 40960 - 41216 has 1 item(s):
+  aaaa
+Checking range: a100 - a1ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying rrrr for $100.00
+	Buying dddd for $100.00
+TOTAL: $200.00
+> 
+**************** BUFFER END *********************
+Range 41216 - 41472 has 1 item(s):
+  rrrr
+Checking range: a200 - a2ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: a300 - a3ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: a400 - a4ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying tttt for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: a500 - a5ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: a600 - a6ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: a700 - a7ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying eeee for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: a800 - a8ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying vvvv for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: a900 - a9ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: aa00 - aaff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying dddd for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: ab00 - abff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying zzzz for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: ac00 - acff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: ad00 - adff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying gggg for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: ae00 - aeff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: af00 - afff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying cccc for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: b000 - b0ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: b100 - b1ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying nnnn for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: b200 - b2ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: b300 - b3ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: b400 - b4ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: b500 - b5ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying rrrr for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: b600 - b6ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying zzzz for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: b700 - b7ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying iiii for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: b800 - b8ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying ffff for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: b900 - b9ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: ba00 - baff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: bb00 - bbff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: bc00 - bcff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: bd00 - bdff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: be00 - beff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: bf00 - bfff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying cccc for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: c000 - c0ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: c100 - c1ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: c200 - c2ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying bbbb for $100.00
+	Buying yyyy for $100.00
+	Buying aa for $100.00
+TOTAL: $300.00
+> 
+**************** BUFFER END *********************
+Range 49664 - 49920 has 2 item(s):
+  bbbb
+  yyyy
+Checking range: c300 - c3ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: c400 - c4ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: c500 - c5ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: c600 - c6ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying mmmm for $100.00
+	Buying bbbb for $100.00
+TOTAL: $200.00
+> 
+**************** BUFFER END *********************
+Range 50688 - 50944 has 1 item(s):
+  mmmm
+Checking range: c700 - c7ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: c800 - c8ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: c900 - c9ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: ca00 - caff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying gggg for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: cb00 - cbff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: cc00 - ccff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: cd00 - cdff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: ce00 - ceff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: cf00 - cfff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: d000 - d0ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying wwww for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: d100 - d1ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying pppp for $100.00
+	Buying jjjj for $100.00
+TOTAL: $200.00
+> 
+**************** BUFFER END *********************
+Range 53504 - 53760 has 1 item(s):
+  pppp
+Checking range: d200 - d2ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: d300 - d3ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: d400 - d4ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying |||| for $100.00
+	Buying jjjj for $100.00
+TOTAL: $200.00
+> 
+**************** BUFFER END *********************
+Range 54272 - 54528 has 1 item(s):
+  ||||
+Checking range: d500 - d5ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying eeee for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: d600 - d6ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying gggg for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: d700 - d7ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: d800 - d8ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying dddd for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: d900 - d9ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: da00 - daff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: db00 - dbff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying iiii for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: dc00 - dcff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: dd00 - ddff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: de00 - deff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: df00 - dfff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: e000 - e0ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: e100 - e1ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: e200 - e2ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying |||| for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: e300 - e3ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying kkkk for $100.00
+	Buying cccc for $100.00
+TOTAL: $200.00
+> 
+**************** BUFFER END *********************
+Range 58112 - 58368 has 1 item(s):
+  kkkk
+Checking range: e400 - e4ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: e500 - e5ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: e600 - e6ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: e700 - e7ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: e800 - e8ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying aa for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: e900 - e9ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying llll for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: ea00 - eaff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: eb00 - ebff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying nnnn for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: ec00 - ecff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: ed00 - edff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: ee00 - eeff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: ef00 - efff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying hhhh for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: f000 - f0ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying oooo for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: f100 - f1ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying dddd for $100.00
+	Buying wwww for $100.00
+	Buying eeee for $100.00
+TOTAL: $300.00
+> 
+**************** BUFFER END *********************
+Range 61696 - 61952 has 2 item(s):
+  dddd
+  wwww
+Checking range: f200 - f2ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying ssss for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: f300 - f3ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: f400 - f4ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying hhhh for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: f500 - f5ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: f600 - f6ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: f700 - f7ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: f800 - f8ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: f900 - f9ff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: fa00 - faff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying cccc for $100.00
+	Buying zzzz for $100.00
+TOTAL: $200.00
+> 
+**************** BUFFER END *********************
+Range 64000 - 64256 has 1 item(s):
+  cccc
+Checking range: fb00 - fbff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying cccc for $100.00
+TOTAL: $100.00
+> 
+**************** BUFFER END *********************
+Checking range: fc00 - fcff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: fd00 - fdff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+Checking range: fe00 - feff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying llll for $100.00
+	Buying kkkk for $100.00
+	Buying hhhh for $100.00
+TOTAL: $300.00
+> 
+**************** BUFFER END *********************
+Range 65024 - 65280 has 2 item(s):
+  llll
+  kkkk
+Checking range: ff00 - ffff
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+TOTAL: $0.00
+> 
+**************** BUFFER END *********************
+****************** BUFFER ***********************
+AAAABBBBa Checkout in process...
+	Buying eeee for $100.00
+	Buying dddd for $100.00
+	Buying cccc for $100.00
+	Buying bbbb for $100.00
+	Buying aaaa for $100.00
+	Buying |||| for $100.00
+	Buying {{{{ for $100.00
+	Buying zzzz for $100.00
+	Buying yyyy for $100.00
+	Buying wwww for $100.00
+	Buying vvvv for $100.00
+	Buying uuuu for $100.00
+	Buying tttt for $100.00
+	Buying ssss for $100.00
+	Buying rrrr for $100.00
+	Buying qqqq for $100.00
+	Buying pppp for $100.00
+	Buying oooo for $100.00
+	Buying nnnn for $100.00
+	Buying mmmm for $100.00
+	Buying llll for $100.00
+	Buying kkkk for $100.00
+	Buying jjjj for $100.00
+	Buying iiii for $100.00
+	Buying hhhh for $100.00
+	Buying gggg for $100.00
+	Buying ffff for $100.00
+	Buying eeee for $100.00
+	Buying dddd for $100.00
+	Buying cccc for $100.00
+	Buying bbbb for $100.00
+	Buying aa for $100.00
+TOTAL: $3200.00
+> 
+**************** BUFFER END *********************
+[1, 6, 10, 15, 21, 29, 32, 64, 79, 90, 108, 121, 130, 140, 143, 160, 161, 194, 198, 209, 212, 227, 241, 250, 254]
+25
+33
+Not checked: 4
+['10000', '10001', '10002', '10003']
+[*] Switching to interactive mode
+Command not recognized.
+> Command not recognized.
+> [*] Interrupted
+[*] Closed connection to localhost port 5555
